@@ -1,4 +1,4 @@
-# Pitch App
+# Pitch
 
 #### This is a website that allows users to post pitches, vote on them and comment on them 24th April 2019
 
@@ -43,11 +43,13 @@ You need the following to work on the project:
 
 ## Link to Live Website
 
+https://pitchitup.herokuapp.com/
+
 ## Technologies Used
 
 - Python
 - Flask micro-framework
-- Bootstrap
+- Material Design Bootstrap
 
 ## License
 
