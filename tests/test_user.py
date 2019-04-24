@@ -9,6 +9,6 @@ class UserModelTest(unittest.TestCase):
     with self.assertRaises(AttributeError):
       self.new_user.password
   def test_password_verification(self):
-    self.assertTrue(self.new_user.verify_password('banana'))
+    self.assertTrue(self.new_user.verify_password('gus9999#'))
 
 
